@@ -1,0 +1,56 @@
+---
+---
+// Bee Theme Variables
+$bee-yellow: #FFC107; // Amber
+$bee-dark: #212121;   // Charcoal
+$bee-accent: #FFA000; // Honey
+$text-color: #333;
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  color: $text-color;
+  line-height: 1.6;
+}
+
+.page-header {
+  color: $bee-dark;
+  text-align: center;
+  background-color: $bee-yellow;
+  background-image: linear-gradient(120deg, $bee-yellow, $bee-accent);
+  padding: 3rem 1rem;
+  border-bottom: 5px solid $bee-dark;
+}
+
+.project-name {
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+.bee-icon {
+  font-size: 3rem;
+  margin-top: 10px;
+}
+
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  h1, h2, h3 { color: $bee-accent; }
+  
+  a {
+    color: $bee-accent;
+    text-decoration: none;
+    font-weight: bold;
+    &:hover { border-bottom: 2px solid $bee-dark; }
+  }
+}
+
+.site-footer {
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: 1px solid #eee;
+  font-size: 0.9rem;
+  color: #777;
+}
