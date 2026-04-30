@@ -28,13 +28,11 @@ neural plasticity of bees, thier ability to reorganize their brain strucutre, fu
     <p align="center"><em>Bee 1</em></p>
   </div>
    
-
   </div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MPZrD-J51vg?si=Y017heRw4vYxaCT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 1</em></p>
   </div>
-
-  </div>
+</div>
 
 ### Bee 2
 
@@ -42,6 +40,31 @@ neural plasticity of bees, thier ability to reorganize their brain strucutre, fu
 
   <div>
     <iframe width="320" height="180" src="https://www.youtube.com/embed/tgbNymZ7vqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nEBh2sxdoVQ?si=xjfLxMBiS3fxfONz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_8893q1SeP8?si=xIFh1nffpfypRQJ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4uvcBtknIoE?si=vPQ91DZjDJLeXD1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wmcXBzy3c4Y?si=usWtLCWIZush3pFv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3tDFsCMwpvE?si=BO6RD8vh4N9-qeXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
     <p align="center"><em>Bee 3</em></p>
   </div>
 
