@@ -1,9 +1,12 @@
-# Intra-and_Inter-individual-_variation_within_neural_plasticity
-neural plasticity of bees, thier ability to reorganize their brain strucutre, functions and neural connections. By understanding the individual variation in biological systems for personalized medicine.
+# Intra and Inter individual variation within neural plasticity
+Neural plasticity of bees, thier ability to reorganize their brain strucutre, functions and neural connections. By understanding the individual variation in biological systems for personalized medicine.
 
 
 ## 🎬 Results
-## Controled experimental groups those are the 
+Controled experimental groups those are the ones presented in this page to observe and understand the behaviour of bumble bees. 
+This is the time period after the first right antenea extraction they individually went though. for which this is the learnig assay period they individually whent throughout to learn from thier environment. for this first round of videos the bees envrionment changed we are not able to abserve but the environment change on light, thre is blue and green light the system is meant to warm up a heating pad under them linked to the green light at the behining of the system to then heat up and the expected result was to obserbe a dislike to the iniitially green light and they start to lean towards the blue colored light though the end of the testing. 
+In the videos there is an obserbation in which the bees where trying to excape but at the same time they did stated changing sides as the systems started heating the pads under them. by disliking the temperature they started moiving back and foward as the pad started to cool down. 
+
 
 ### Bee 1
 
@@ -73,7 +76,27 @@ neural plasticity of bees, thier ability to reorganize their brain strucutre, fu
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div>
-    <iframe width="320" height="180" src="https://www.youtube.com/embed/tgbNymZ7vqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fK-Fn8ePQug?si=2Kr__GbkWqOn92_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+   <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fjKfa556ZMU?si=WptoVySFNzC_aTlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+   <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ4Vq3-uZGQ?si=Pye58fHPyZxx0rok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+   <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/M8Rqw60fMMA?si=Ef3G8evXrwdHpRIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 3</em></p>
+  </div>
+
+   <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N27Dr2p5xN8?si=WPXHVojP1gjnJjaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 3</em></p>
   </div>
 
