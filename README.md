@@ -3,12 +3,14 @@ Neural plasticity of bees, thier ability to reorganize their brain strucutre, fu
 
 
 ## 🎬 Results
-Controled experimental groups those are the ones presented in this page to observe and understand the behaviour of bumble bees. 
-This is the time period after the first right antenea extraction they individually went though. for which this is the learnig assay period they individually whent throughout to learn from thier environment. for this first round of videos the bees envrionment changed we are not able to abserve but the environment change on light, thre is blue and green light the system is meant to warm up a heating pad under them linked to the green light at the behining of the system to then heat up and the expected result was to obserbe a dislike to the iniitially green light and they start to lean towards the blue colored light though the end of the testing. 
-In the videos there is an obserbation in which the bees where trying to excape but at the same time they did stated changing sides as the systems started heating the pads under them. by disliking the temperature they started moiving back and foward as the pad started to cool down. 
+The controlled experimental groups shown on this page were used to observe and understand the behavior of bumble bees during the learning‑assay period following their first right‑antenna extraction. During this phase, each bee individually underwent a learning process in response to its environment.
 
+In this first set of videos, the environmental conditions changed in ways we could not directly observe, but we know the system alternated between blue and green light. The setup was designed so that the green light activated a heating pad beneath the bees. The expected outcome was that bees would develop an aversion to the green‑light condition associated with heat and gradually shift their preference toward the blue light by the end of the testing period.
 
-### Bee 1
+Across the videos, there is a clear pattern: the bees attempted to escape the arena, but they also changed sides as the heating system activated. When the pad warmed, the bees moved away from the heated area, and as it cooled, they moved back and forth across the arena. Their movement patterns reflect avoidance of the elevated temperature and adaptation to the alternating environmental cues.
+
+### Heat and light controled learning assay
+#### Bee 1
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
@@ -39,7 +41,7 @@ In the videos there is an obserbation in which the bees where trying to excape b
  
 </div>
 
-### Bee 2
+#### Bee 2
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
@@ -71,7 +73,7 @@ In the videos there is an obserbation in which the bees where trying to excape b
 </div>
 
 
-### Bee 3
+#### Bee 3
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
