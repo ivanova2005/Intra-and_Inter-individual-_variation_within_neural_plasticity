@@ -42,7 +42,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.3</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -51,7 +51,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.4</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -59,7 +59,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.5</em></p>
     </div>
 
 </div>
@@ -70,7 +70,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
 
 <details style="margin-bottom: 30px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; background-color: #fafafa; cursor: pointer;">
   <summary style="font-size: 1.1em; font-weight: 600; color: #444; padding: 5px; outline: none;">
-     View Research Videos for Bee 1
+     View Research Videos for Bee 2
   </summary>
 
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 15px;">
@@ -81,7 +81,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.1</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -90,7 +90,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.2</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -98,7 +98,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.3</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -107,7 +107,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.4</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -115,7 +115,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.5</em></p>
     </div>
 
 </div>
@@ -126,18 +126,18 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
 
 <details style="margin-bottom: 30px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; background-color: #fafafa; cursor: pointer;">
   <summary style="font-size: 1.1em; font-weight: 600; color: #444; padding: 5px; outline: none;">
-     View Research Videos for Bee 1
+     View Research Videos for Bee 3
   </summary>
 
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 15px;">
     
   <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/fK-Fn8ePQug?si=2Kr__GbkWqOn92_B" 
+        <iframe src="https://www.youtube.com/embed/N27Dr2p5xN8?si=WPXHVojP1gjnJjaM" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 3.1</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -146,7 +146,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 3.2</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -154,7 +154,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 3.3</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -163,15 +163,15 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 3.4</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/N27Dr2p5xN8?si=WPXHVojP1gjnJjaM" 
+        <iframe src="https://www.youtube.com/embed/fK-Fn8ePQug?si=2Kr__GbkWqOn92_B" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 3.5</em></p>
     </div>
 
 </div>
@@ -214,7 +214,7 @@ Across the videos, there is an initial pattern of alimentation: once the food is
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.3</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -223,7 +223,7 @@ Across the videos, there is an initial pattern of alimentation: once the food is
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.4</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -231,7 +231,7 @@ Across the videos, there is an initial pattern of alimentation: once the food is
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.5</em></p>
     </div>
 
 </div>
@@ -275,7 +275,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.3</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -284,7 +284,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.4</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -292,7 +292,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.5</em></p>
     </div>
 
 </div>
@@ -301,7 +301,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
 #### Bee 2
 <details style="margin-bottom: 30px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; background-color: #fafafa; cursor: pointer;">
   <summary style="font-size: 1.1em; font-weight: 600; color: #444; padding: 5px; outline: none;">
-     View Research Videos for Bee 1
+     View Research Videos for Bee 2
   </summary>
 
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 15px;">
@@ -312,7 +312,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.1</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -321,7 +321,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.2</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -329,7 +329,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.3</em></p>
     </div>
 
   <div style="text-align: center;">
@@ -338,7 +338,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.4</em></p>
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
@@ -346,7 +346,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 2.5</em></p>
     </div>
 
 </div>
