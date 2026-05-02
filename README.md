@@ -11,62 +11,61 @@ In this first set of videos, the environmental conditions changed in ways we cou
 Across the videos, there is a clear pattern: the bees attempted to escape the arena, but they also changed sides as the heating system activated. When the pad warmed, the bees moved away from the heated area, and as it cooled, they moved back and forth across the arena. Their movement patterns reflect avoidance of the elevated temperature and adaptation to the alternating environmental cues.
 #### Bee 1
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
 
-  <div>
+  <div style="width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
+    <p align="center"><em>Bee 1.1</em></p>
   </div>
 
-  <div>
+  <div style="width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Sr9KHP8sjoU?si=h1MKTxIh8pz8CrFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
+    <p align="center"><em>Bee 1.2</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HGpcI4mpzSs?si=ITZwx1R8Sgg4Wes5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
+    <p align="center"><em>Bee 1.3</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/j-mLS2JV54g?si=hU0QcBFo5JMgaMW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
+    <p align="center"><em>Bee 1.4</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MPZrD-J51vg?si=rHPiGYjzp4ge-BEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
+    <p align="center"><em>Bee 1.5</em></p>
   </div>
  
 </div>
 
 #### Bee 2
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nEBh2sxdoVQ?si=xjfLxMBiS3fxfONz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-    <p align="center"><em>Bee 2</em></p>
+    <p align="center"><em>Bee 2.1</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_8893q1SeP8?si=xIFh1nffpfypRQJ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-    <p align="center"><em>Bee 2</em></p>
+    <p align="center"><em>Bee 2.2</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4uvcBtknIoE?si=vPQ91DZjDJLeXD1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-    <p align="center"><em>Bee 2</em></p>
+    <p align="center"><em>Bee 2.3</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wmcXBzy3c4Y?si=usWtLCWIZush3pFv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-    <p align="center"><em>Bee 2</em></p>
+    <p align="center"><em>Bee 2.4</em></p>
   </div>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3tDFsCMwpvE?si=BO6RD8vh4N9-qeXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-    <p align="center"><em>Bee 2</em></p>
+    <p align="center"><em>Bee 2.5</em></p>
   </div>
 
 </div>
@@ -74,31 +73,31 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
 
 #### Bee 3
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fK-Fn8ePQug?si=2Kr__GbkWqOn92_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 3</em></p>
+    <p align="center"><em>Bee 3.1</em></p>
   </div>
 
    <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fjKfa556ZMU?si=WptoVySFNzC_aTlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 3</em></p>
+    <p align="center"><em>Bee 3.2</em></p>
   </div>
 
    <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ4Vq3-uZGQ?si=Pye58fHPyZxx0rok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 3</em></p>
+    <p align="center"><em>Bee 3.3</em></p>
   </div>
 
    <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/M8Rqw60fMMA?si=Ef3G8evXrwdHpRIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 3</em></p>
+    <p align="center"><em>Bee 3.4</em></p>
   </div>
 
    <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/N27Dr2p5xN8?si=WPXHVojP1gjnJjaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 3</em></p>
+    <p align="center"><em>Bee 3.5</em></p>
   </div>
 
 </div>
@@ -109,7 +108,7 @@ In this set of videos, the environmental conditions changed as the system delive
 Across the videos, there is an initial pattern of alimentation: once the food is presented, the bee becomes interested in the nectar (sucrose) and pollen provided, gradually associating the odor with the presence of food. With more trials, the expected outcome was that the bee would begin to respond to the odor alone by showing a visible proboscis extension, anticipating food even before it appeared. Eventually, when the odor is presented without food, the presence of proboscis extension would indicate successful associative learning.
 #### Bee 1
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -142,41 +141,10 @@ Across the videos, there is an initial pattern of alimentation: once the food is
 In this first set of videos, the environmental conditions changed in ways we could not directly observe, but we know the system alternated between blue and green light. The setup was designed so that the green light activated a heating pad beneath the bees. The expected outcome was that bees would develop an aversion to the green‑light condition associated with heat and gradually shift their preference toward the blue light by the end of the testing period.
 
 Across the videos, there is a clear pattern: the bees attempted to escape the arena, but they also changed sides as the heating system activated. When the pad warmed, the bees moved away from the heated area, and as it cooled, they moved back and forth across the arena. Their movement patterns reflect avoidance of the elevated temperature and adaptation to the alternating environmental cues.
+
 #### Bee 1
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
-  </div>
-
-  <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Sr9KHP8sjoU?si=h1MKTxIh8pz8CrFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
-  </div>
-
-  <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HGpcI4mpzSs?si=ITZwx1R8Sgg4Wes5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
-  </div>
-
-  <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/j-mLS2JV54g?si=hU0QcBFo5JMgaMW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
-  </div>
-
-  <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MPZrD-J51vg?si=rHPiGYjzp4ge-BEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1</em></p>
-  </div>
- 
-</div>
-
-#### Bee 2
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tq_LEg825WI?si=VbFPaZulUu93Kn3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 2</em></p>
@@ -202,4 +170,35 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
     <p align="center"><em>Bee 2</em></p>
   </div>
 
+</div>
+
+
+#### Bee 2
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 1</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Sr9KHP8sjoU?si=h1MKTxIh8pz8CrFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 1</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HGpcI4mpzSs?si=ITZwx1R8Sgg4Wes5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 1</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j-mLS2JV54g?si=hU0QcBFo5JMgaMW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 1</em></p>
+  </div>
+
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MPZrD-J51vg?si=rHPiGYjzp4ge-BEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p align="center"><em>Bee 1</em></p>
+  </div>
+ 
 </div>
