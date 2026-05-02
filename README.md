@@ -17,14 +17,14 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
   </summary>
 
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 15px; justify-items: center;">
-  <div style="width: 100%;">
+  <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1.1</em></p>
+    <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
   </div>
 
-  <div style="width: 100%;">
+  <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Sr9KHP8sjoU?si=h1MKTxIh8pz8CrFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p align="center"><em>Bee 1.2</em></p>
+    <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
   </div>
 
   <div style="width: 100%;">
@@ -47,7 +47,10 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
 
 #### Bee 2
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+<details style="margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; cursor: pointer;">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #333; list-style: none; outline: none;">
+    ▶ Click to view Bee 1 Videos
+  </summary>
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nEBh2sxdoVQ?si=xjfLxMBiS3fxfONz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
     <p align="center"><em>Bee 2.1</em></p>
@@ -74,11 +77,14 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
   </div>
 
 </div>
-
+</details>
 
 #### Bee 3
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+<details style="margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; cursor: pointer;">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #333; list-style: none; outline: none;">
+    ▶ Click to view Bee 1 Videos
+  </summary>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fK-Fn8ePQug?si=2Kr__GbkWqOn92_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -106,6 +112,7 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
   </div>
 
 </div>
+</details>
 
 ### Food and odor experimental learning assay 2
 In this set of videos, the environmental conditions changed as the system delivered an odor stimulus through the connected pump, followed by the presentation of food. Each video shows the bee being exposed to the odor first and then receiving the food reward immediately afterward. The setup was designed so that the odor cue consistently preceded the food delivery, allowing the bee to form an association between the two stimuli over repeated trials.
@@ -113,7 +120,10 @@ In this set of videos, the environmental conditions changed as the system delive
 Across the videos, there is an initial pattern of alimentation: once the food is presented, the bee becomes interested in the nectar (sucrose) and pollen provided, gradually associating the odor with the presence of food. With more trials, the expected outcome was that the bee would begin to respond to the odor alone by showing a visible proboscis extension, anticipating food even before it appeared. Eventually, when the odor is presented without food, the presence of proboscis extension would indicate successful associative learning.
 #### Bee 1
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+<details style="margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; cursor: pointer;">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #333; list-style: none; outline: none;">
+    ▶ Click to view Bee 1 Videos
+  </summary>
 
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,6 +151,7 @@ Across the videos, there is an initial pattern of alimentation: once the food is
   </div>
  
 </div>
+</details>
 
 ### Heat and light controled learning assay 1
 In this first set of videos, the environmental conditions changed in ways we could not directly observe, but we know the system alternated between blue and green light. The setup was designed so that the green light activated a heating pad beneath the bees. The expected outcome was that bees would develop an aversion to the green‑light condition associated with heat and gradually shift their preference toward the blue light by the end of the testing period.
@@ -149,7 +160,10 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
 
 #### Bee 1
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+<details style="margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; cursor: pointer;">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #333; list-style: none; outline: none;">
+    ▶ Click to view Bee 1 Videos
+  </summary>
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tq_LEg825WI?si=VbFPaZulUu93Kn3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 2</em></p>
@@ -176,11 +190,14 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
   </div>
 
 </div>
-
+</details>
 
 #### Bee 2
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+<details style="margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; cursor: pointer;">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #333; list-style: none; outline: none;">
+    ▶ Click to view Bee 1 Videos
+  </summary>
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 1</em></p>
@@ -207,3 +224,31 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
   </div>
  
 </div>
+</details>
+
+<details style="margin-bottom: 30px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; background-color: #fafafa; cursor: pointer;">
+  <summary style="font-size: 1.1em; font-weight: 600; color: #444; padding: 5px; outline: none;">
+     View Research Videos for Bee 1
+  </summary>
+
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 15px;">
+    
+  <div style="text-align: center;">
+      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+        <iframe src="https://www.youtube.com/embed/yM-jqLF0wbc" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
+                frameborder="0" allowfullscreen></iframe>
+      </div>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
+    </div>
+
+  <div style="text-align: center;">
+      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+        <iframe src="https://www.youtube.com/embed/Sr9KHP8sjoU" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
+                frameborder="0" allowfullscreen></iframe>
+      </div>
+      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
+    </div>
+</div> 
+</details>
