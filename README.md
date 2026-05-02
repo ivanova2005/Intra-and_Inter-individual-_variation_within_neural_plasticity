@@ -11,8 +11,12 @@ In this first set of videos, the environmental conditions changed in ways we cou
 Across the videos, there is a clear pattern: the bees attempted to escape the arena, but they also changed sides as the heating system activated. When the pad warmed, the bees moved away from the heated area, and as it cooled, they moved back and forth across the arena. Their movement patterns reflect avoidance of the elevated temperature and adaptation to the alternating environmental cues.
 #### Bee 1
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 1200px; margin: 0 auto;">
+<details style="margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; cursor: pointer;">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #333; list-style: none; outline: none;">
+    ▶ Click to view Bee 1 Videos
+  </summary>
 
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 15px; justify-items: center;">
   <div style="width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yM-jqLF0wbc?si=hB1-vgEIP9OKmY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 1.1</em></p>
@@ -23,22 +27,23 @@ Across the videos, there is a clear pattern: the bees attempted to escape the ar
     <p align="center"><em>Bee 1.2</em></p>
   </div>
 
-  <div>
+  <div style="width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HGpcI4mpzSs?si=ITZwx1R8Sgg4Wes5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 1.3</em></p>
   </div>
 
-  <div>
+  <div style="width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/j-mLS2JV54g?si=hU0QcBFo5JMgaMW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 1.4</em></p>
   </div>
 
-  <div>
+  <div style="width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MPZrD-J51vg?si=rHPiGYjzp4ge-BEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p align="center"><em>Bee 1.5</em></p>
   </div>
  
 </div>
+</details>
 
 #### Bee 2
 
