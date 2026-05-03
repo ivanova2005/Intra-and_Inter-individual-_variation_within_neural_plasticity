@@ -308,7 +308,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
     
   <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/tq_LEg825WI?si=VbFPaZulUu93Kn3q"
+        <iframe src="https://www.youtube.com/embed/E6KnnEgL42Q?si=JWb26amygBns-YAE"
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
@@ -317,7 +317,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
 
   <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/JbhJ-bz0k68?si=yaBZQSIxNVAk2nOC"
+        <iframe src="https://www.youtube.com/embed/vQSzA9kL4tQ?si=_6mYdzFbPoeDrwGv"
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
@@ -325,7 +325,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
     </div>
      <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/X5WhAGgfCbU?si=lRe_UeB9qJ4xFwx8" 
+        <iframe src="https://www.youtube.com/embed/IiLPXvlGsDg?si=cZ4-lAaQ95GG4HUv" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
@@ -334,7 +334,7 @@ Across the videos, a clear avoidance pattern emerges: once the heating pad activ
 
   <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/ndt6Ap5BkJU?si=xODaUnpcVfG3G0of"
+        <iframe src="https://www.youtube.com/embed/_i-Hf5f2WK0?si=ne_u2oaszxo54bSL" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
