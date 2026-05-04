@@ -193,45 +193,11 @@ Across the videos, there is an initial pattern of alimentation: once the food is
     
   <div style="text-align: center;">
       <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/fK-Fn8ePQug?si=2Kr__GbkWqOn92_B" 
+        <iframe src="https://www.youtube.com/embed/-pCUIxIffwo?si=wRP2aY0sViUzZx_x" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
       <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.1</em></p>
-    </div>
-
-  <div style="text-align: center;">
-      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/fjKfa556ZMU?si=WptoVySFNzC_aTlq"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.2</em></p>
-    </div>
-     <div style="text-align: center;">
-      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/tQ4Vq3-uZGQ?si=Pye58fHPyZxx0rok" 
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.3</em></p>
-    </div>
-
-  <div style="text-align: center;">
-      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/M8Rqw60fMMA?si=Ef3G8evXrwdHpRIf"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.4</em></p>
-    </div>
-     <div style="text-align: center;">
-      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-        <iframe src="https://www.youtube.com/embed/N27Dr2p5xN8?si=WPXHVojP1gjnJjaM" 
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
-      <p style="margin-top: 8px; font-size: 0.9em; color: #666;"><em>Bee 1.5</em></p>
     </div>
 
 </div>
